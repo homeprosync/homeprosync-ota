@@ -1,8 +1,8 @@
-﻿# Home Pro Sync — Advanced Dual OTA System
+﻿# Home Pro Sync â€” Advanced Dual OTA System
 
 Official cloud repository for Home Pro Sync IoT System (Mobile Android App + ESP32 Hardware Firmware).
 
-## 🚀 Repository Structure
+## ðŸš€ Repository Structure
 - pp/version.json: Live Mobile App release manifest (Production & Targeted Beta).
 - pp/HomeProSync.apk: Mobile App production build.
 - pp/HomeProSync_beta.apk: Mobile App targeted beta build.
@@ -11,12 +11,12 @@ Official cloud repository for Home Pro Sync IoT System (Mobile Android App + ESP
 - irmware/HomeProSync_ESP32/firmware.bin: Production firmware binary.
 - irmware/HomeProSync_ESP32/firmware_beta.bin: Beta firmware binary.
 
-## 📡 Live OTA Manifest Endpoints
+## ðŸ“¡ Live OTA Manifest Endpoints
 - **Mobile App OTA Manifest:**
   https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/app/version.json
 - **ESP32 Firmware OTA Manifest:**
   https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/firmware/version.json
 
-## 🛡️ Targeted Beta Testing (Whitelisted Emails)
+## ðŸ›¡ï¸ Targeted Beta Testing (Whitelisted Emails)
 - Whitelisted Developer / Beta tester: mhdf786@gmail.com
 - Motor Safety Lock: Automatically turns OFF dp101 motor prior to firmware update.
