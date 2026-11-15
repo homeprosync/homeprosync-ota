@@ -1,0 +1,26 @@
+{
+  "production": {
+    "version": "4.0.0",
+    "binUrl": "https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/firmware/HomeProSync_ESP32/firmware.bin",
+    "notes": "Official Production Stable v4.0.0: Universal 12V/24V/48V solar support, A02YYUW ultrasonic tank sensor calibration, auto-adaptive battery health engine, and Tuya Cloud synchronization.",
+    "releaseDate": "2026-11-16",
+    "forceRollback": false
+  },
+  "targeted_test": {
+    "version": "4.1.0",
+    "binUrl": "https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/firmware/HomeProSync_ESP32/firmware_beta.bin",
+    "notes": "Targeted Beta v4.1.0: Enhanced MPPT dynamic sweeping, millisecond-accuracy motor relay interlock, and smart overnight silent OTA scheduler.",
+    "releaseDate": "2026-11-16",
+    "allowed_emails": [
+      "mhdf786@gmail.com",
+      "user@homeprosync.io",
+      "admin@homeprosync.io"
+    ],
+    "allowed_device_ids": [
+      "HPS-ESP32-DEV01",
+      "HPS-ESP32-84F3E8",
+      "mpeaadtdfyf4auhb"
+    ],
+    "forceRollback": false
+  }
+}
