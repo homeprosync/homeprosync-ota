@@ -1,0 +1,22 @@
+{
+  "production": {
+    "version": "1.0.0",
+    "apkUrl": "https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/app/HomeProSync.apk",
+    "notes": "Home Pro Sync v1.0.0 Stable Public Release: Dual Water Tank & Solar Power management with Tuya Cloud integration.",
+    "releaseDate": "2026-11-16",
+    "forceRollback": false
+  },
+  "targeted_test": {
+    "enabled": true,
+    "version": "1.1.0-beta",
+    "apkUrl": "https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/app/HomeProSync_beta.apk",
+    "notes": "Home Pro Sync v1.1.0 Beta: Advanced Dual OTA Manager for App & ESP32, Email-based whitelist testing, and instant APK updater.",
+    "releaseDate": "2026-11-16",
+    "allowed_emails": [
+      "mhdf786@gmail.com",
+      "user@homeprosync.io",
+      "admin@homeprosync.io"
+    ],
+    "forceRollback": false
+  }
+}

@@ -7,7 +7,8 @@
     "forceRollback": false
   },
   "targeted_test": {
-    "version": "4.1.0",
+    "enabled": true,
+    "version": "4.1.0-beta",
     "binUrl": "https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/firmware/HomeProSync_ESP32/firmware_beta.bin",
     "notes": "Targeted Beta v4.1.0: Enhanced MPPT dynamic sweeping, millisecond-accuracy motor relay interlock, and smart overnight silent OTA scheduler.",
     "releaseDate": "2026-11-16",
