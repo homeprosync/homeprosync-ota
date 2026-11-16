@@ -1,16 +1,16 @@
 {
   "production": {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "apkUrl": "https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/app/HomeProSync.apk",
-    "notes": "Home Pro Sync v1.1.0 Stable Public Release: Universal Solar & Battery Setup, Interactive Blueprint Schematic, and In-App Background APK Updater.",
+    "notes": "Home Pro Sync v1.2.0 Stable Release: 1:1 Boundless Full-Screen Blueprint Pan & Multi-Touch Pinch-To-Zoom Engine, Hardware Back Button Navigation, and In-App Background APK Updater.",
     "releaseDate": "2026-11-16",
     "forceRollback": false
   },
   "targeted_test": {
     "enabled": true,
-    "version": "1.2.0-beta",
+    "version": "1.3.0-beta",
     "apkUrl": "https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/app/HomeProSync_beta.apk",
-    "notes": "Home Pro Sync v1.2.0 Beta: Native Hardware Back Button Navigation, 1:1 Full-Screen Blueprint Rendering Fix, Direct Latest Version Jump & In-App Silent Updater for Farhan Khan.",
+    "notes": "Home Pro Sync v1.3.0 Beta: Infinite 2D Matrix Panning (Zero Left-Clipping), Pixel-Accurate Smooth Multi-Touch Pinch-To-Zoom, Hierarchical Hardware Back Navigation & Silent In-App Background Updater for Farhan Khan.",
     "releaseDate": "2026-11-16",
     "allowed_emails": [
       "mhdf786@gmail.com",
