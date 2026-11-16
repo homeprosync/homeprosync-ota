@@ -10,7 +10,7 @@
     "enabled": true,
     "version": "1.1.0-beta",
     "apkUrl": "https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/app/HomeProSync_beta.apk",
-    "notes": "Home Pro Sync v1.1.0 Beta: Pure-Tuya Profile Sync (Full Name, Age & Gender), Live SVG Interactive Wiring Schematic, and Strict Real-Time Hardware Check.",
+    "notes": "Home Pro Sync v1.1.0 Beta: Universal Solar Voc & Mismatch Engine, 1:1 Full-Screen Interactive Blueprint Schematic, Strict Hardware Validation & Pure-Tuya Profile Sync for Farhan Khan.",
     "releaseDate": "2026-11-16",
     "allowed_emails": [
       "mhdf786@gmail.com",
