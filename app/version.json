@@ -8,9 +8,9 @@
   },
   "targeted_test": {
     "enabled": true,
-    "version": "1.3.3-beta",
+    "version": "1.3.4-beta",
     "apkUrl": "https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/app/HomeProSync_beta.apk",
-    "notes": "Home Pro Sync v1.3.3 Beta: Fixed in-app updater download initialization stall (resolved bridge method binding, added dynamic progress streaming, 64KB buffer, and 1-tap direct download fallback).",
+    "notes": "Home Pro Sync v1.3.4 Beta: Fixed splash screen initialization freeze (resolved duplicate bracket syntax error), verified clean JS parse, and preserved single-connection OTA updater with direct download fallback.",
     "releaseDate": "2026-11-19",
     "allowed_emails": [
       "mhdf786@gmail.com",
