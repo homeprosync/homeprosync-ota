@@ -8,9 +8,9 @@
   },
   "targeted_test": {
     "enabled": true,
-    "version": "1.3.0-beta",
+    "version": "1.3.1-beta",
     "apkUrl": "https://raw.githubusercontent.com/homeprosync/homeprosync-ota/main/app/HomeProSync_beta.apk",
-    "notes": "Home Pro Sync v1.3.0 Beta: Critical battery & performance optimizations (render loop fix, adaptive background polling), edge-to-edge safe area scaling, ESP32 firmware safety fail-safes (15s sensor heartbeat timeout, division-by-zero protection), Admin PIN recovery ('8000' / 'maudible'), and high-speed single-connection background APK updater.",
+    "notes": "Home Pro Sync v1.3.1 Beta: Critical battery & performance optimizations (render loop fix, adaptive background polling), edge-to-edge safe area scaling, ESP32 firmware safety fail-safes (15s sensor heartbeat timeout, division-by-zero protection), Admin PIN recovery ('8000' / 'maudible'), and high-speed single-connection background APK updater.",
     "releaseDate": "2026-11-19",
     "allowed_emails": [
       "mhdf786@gmail.com",
